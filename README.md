@@ -23,7 +23,7 @@ Tenho 32 anos, moro em São Paulo/SP e sou apaixonada por programação e felino
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/> 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
 <div/>
-
+<br/>
 <div align="center">
 <a href="https://github.com/CamilaCoradi">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamilaCoradi&layout=compact&langs_count=7&theme=ocean_dark"/>
