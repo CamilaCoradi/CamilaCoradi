@@ -34,7 +34,6 @@ Tenho 32 anos, moro em São Paulo/SP e sou apaixonada por programação e felino
 
 <div align="center">
 <a href="https://www.linkedin.com/in/camila-coradi-garcia-leal-b2a49287/ target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href="https://www.instagram.com/camila_coradi/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
 ![Snake animation](https://github.com/CamilaCoradi/CamilaCoradi/blob/output/github-contribution-grid-snake.svg)
