@@ -9,5 +9,5 @@ Sou Desenvolvedora Backend Pleno com sólida experiência no ecossistema **.NET 
 * **Servidores & Práticas:** IIS (Internet Information Services), Git, Clean Code, Layered Architecture
 
 ### 📬 Conecte-se comigo
-* LinkedIn: [https://github.com/CamilaCoradi]
+* LinkedIn: [https://www.linkedin.com/in/camila-coradi-garcia-leal-b2a49287/]
 * E-mail: camicoradi@gmail.com
